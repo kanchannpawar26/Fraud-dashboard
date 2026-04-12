@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th, td {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+tr:hover {
+  background: #1e293b;
+}
+
+.safe {
+  color: lightgreen;
+}
+
+.fraud {
+  color: red;
+}
